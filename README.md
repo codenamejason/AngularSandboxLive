@@ -1,2 +1,0 @@
-# AngularSandboxLive
-Created with CodeSandbox
